@@ -1,0 +1,28 @@
+body {
+    background-color: #111;
+    color: white;
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+h1 {
+    margin-top: 40px;
+    font-size: 48px;
+}
+
+.player-card {
+    background-color: #1e1e1e;
+    width: 300px;
+    margin: 40px auto;
+    padding: 20px;
+    border-radius: 15px;
+}
+
+.player-card img {
+    width: 100%;
+    border-radius: 10px;
+}
+
+.player-card h2 {
+    margin-top: 15px;
+}
